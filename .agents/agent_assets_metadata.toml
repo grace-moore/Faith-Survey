@@ -1,0 +1,14 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "KFQKJ4smPQYEaAj26os73"
+uri = "file://README.md"
+type = "text"
+title = "README.md"
+
+[[outputs]]
+id = "dc0TxNMD4dmd9gTSA8IOQ"
+uri = "file://WORKING_NOTES.md"
+type = "text"
+title = "WORKING_NOTES.md"
